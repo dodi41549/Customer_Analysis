@@ -25,9 +25,9 @@ EN:
 
 ---
 
-## 📁 link Dataset Raw, Dataset Clean, and Visualization Power BI
-- (https://github.com/dodi41549/Customer_Analysis/edit/main/README.md) (Maintenance)
-
+## 📁 link Dataset Raw and Dataset Clean
+- Dataset Raw        : https://www.kaggle.com/datasets/ishanshrivastava28/tata-online-retail-dataset?resource=download
+- Dataset Clean      : https://drive.google.com/file/d/1Uwr6nTHvKex2j1bEkFpDfJ3PFVdfXggL/view?usp=sharing
 
 ---
 
